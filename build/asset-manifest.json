@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tic-tac-toe/static/css/main.2384b4fd.css",
+    "main.js": "/Tic-tac-toe/static/js/main.000a938e.js",
+    "static/media/friends.webp": "/Tic-tac-toe/static/media/friends.22abd874b444f55cd86f.webp",
+    "index.html": "/Tic-tac-toe/index.html",
+    "main.2384b4fd.css.map": "/Tic-tac-toe/static/css/main.2384b4fd.css.map",
+    "main.000a938e.js.map": "/Tic-tac-toe/static/js/main.000a938e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2384b4fd.css",
+    "static/js/main.000a938e.js"
+  ]
+}
